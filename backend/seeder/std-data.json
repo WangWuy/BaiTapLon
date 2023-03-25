@@ -1,0 +1,96 @@
+[
+    {
+        "model":"StdManage.user",
+        "fields": {
+            "username": "userseeder01",
+            "password": "123456",
+            "first_name": "Nguyen",
+            "last_name": "Van",
+            "gender": "M",
+            "email": "seeder01@gmal.com",
+            "is_active": 1
+        }
+    },
+    {
+        "model":"StdManage.user",
+        "fields": {
+            "username": "userseeder02",
+            "password": "123456",
+            "first_name": "Tran",
+            "last_name": "Truong",
+            "gender": "F",
+            "email": "seeder02@gmal.com",
+            "is_active": 1
+        }
+    },
+    {
+        "model":"StdManage.Post_category",
+        "fields": {
+            "title": "seeder_test02",
+            "description": "test seeder data 02"
+        }
+    },
+    {
+        "model":"StdManage.Post_category",
+        "fields": {
+            "title": "seeder_test02",
+            "description": "test seeder data 02"
+        }
+    },
+    {
+        "model":"StdManage.Post",
+        "fields": {
+            "title": "seeder_test02",
+            "description": "test seeder data 02"
+        }
+    },
+    {
+        "model":"StdManage.Comments",
+        "fields": {
+            "title": "seeder_test02",
+            "description": "test seeder data 02"
+        }
+    },
+    {
+        "model":"StdManage.Livestream_info",
+        "fields": {
+            "title": "seeder_test02",
+            "description": "test seeder data 02"
+        }
+    },
+    {
+        "model":"StdManage.Questions",
+        "fields": {
+            "title": "seeder_test02",
+            "description": "test seeder data 02"
+        }
+    },
+    {
+        "model":"StdManage.Falcuty",
+        "fields": {
+            "title": "seeder_test02",
+            "description": "test seeder data 02"
+        }
+    },
+    {
+        "model":"StdManage.Major",
+        "fields": {
+            "title": "seeder_test02",
+            "description": "test seeder data 02"
+        }
+    },
+    {
+        "model":"StdManage.University_info",
+        "fields": {
+            "title": "seeder_test02",
+            "description": "test seeder data 02"
+        }
+    },
+    {
+        "model":"StdManage.Slider",
+        "fields": {
+            "title": "seeder_test02",
+            "description": "test seeder data 02"
+        }
+    }
+]
